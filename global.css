@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-source-sans-pro: "Source Sans Pro";
+    --font-poppins-semibold: "Poppins SemiBold";
+    --font-poppins-medium: "Poppins Medium";
+    --font-urbanist: Urbanist;
+    --font-open-sans: "Open Sans";
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-base: 16px;
+    --font-size-3xs: 10px;
+    --font-size-3xs-7: 9.7px;
+    --font-size-sm: 14px;
+    --font-size-13xl-8: 32.8px;
+    --font-size-mini: 15px;
+    --font-size-3xs-6: 9.6px;
+    --font-size-5xs: 8px;
+    --font-size-mid: 17px;
+    --font-size-11xl: 30px;
+    --font-size-13xl: 32px;
+    --font-size-lg: 18px;
+    --font-size-xs: 12px;
+  
+    /* Colors */
+    --color-black: #000;
+    --w: #fff;
+    --color-forestgreen: #09b451;
+    --o1: #ff6f28;
+    --color-mistyrose: #ffe7db;
+    --color-gray-100: #1e232c;
+    --color-gray-200: rgba(255, 255, 255, 0.3);
+    --gray: #8391a1;
+    --color-whitesmoke: #f7f8f9;
+    --border: #e8ecf4;
+    --dark-gray: #6a707c;
+    --color-chocolate: #f77d27;
+    --color-darkorange: #f77e23;
+    --gray1: #333;
+    --color-linen: rgba(255, 238, 225, 0.8);
+  
+    /* Gaps */
+    --gap-xs: 12px;
+    --gap-5xl: 24px;
+    --gap-base: 16px;
+    --gap-mini: 15px;
+    --gap-8xs: 5px;
+    --gap-10xs-9: 2.9px;
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-10xs: 3px;
+    --gap-11xs: 2px;
+    --gap-mid: 17px;
+    --gap-13xl: 32px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-23xl: 42px;
+    --padding-sm: 14px;
+    --padding-base: 16px;
+    --padding-2xs: 11px;
+  
+    /* border radiuses */
+    --br-31xl: 50px;
+    --br-11xl: 30px;
+    --br-5xl: 24px;
+    --br-48xl-2: 67.2px;
+    --br-smi-5: 12.5px;
+    --br-xl: 20px;
+    --br-37xl: 56px;
+    --br-2xs-4: 10.4px;
+    --br-8xs: 5px;
+    --br-11xs-2: 1.2px;
+    --br-5xs: 8px;
+    --br-5xl-1: 24.1px;
+    --br-9xs-8: 3.8px;
+    --br-base-2: 15.2px;
+    --br-mid-5: 17.5px;
+  
+    /* Effects */
+    --blur: blur(4px);
+    --frosted-glass: blur(40px);
+  }
+  
